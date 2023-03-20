@@ -5,7 +5,7 @@ body {
     margin: 0 auto;
 }
 
-.main {
+main {
     display: flex; 
     flex-direction: column; 
     align-items: center;
@@ -25,5 +25,5 @@ body {
     .title { font-size: 23px; font-weight: 700; color: hsl(218, 44%, 22%);}
     .subtitle { font-size: 15px; font-weight: 400; color: hsl(220, 15%, 55%);}
 
-.attribution { font-size: 11px; text-align: center; margin-top: 10px;}
+footer { font-size: 11px; text-align: center; margin-top: 10px;}
     .attribution a { color: hsl(228, 45%, 44%); }
