@@ -58,7 +58,7 @@ I practiced the html and css basics that i recently learned, so i'm proud of sol
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ygordsc)
+- Frontend Mentor - [@ygordsc](https://www.frontendmentor.io/profile/ygordsc)
 - Twitter - [@ygordsc](https://www.twitter.com/ygordsc)
 - Discord - rogy#4181
 
